@@ -6,7 +6,6 @@ ESG Intelligence Platform is a data science project that analyzes companies base
 
 The system automatically collects company news, extracts article content, performs ESG classification and sentiment analysis, and generates ESG scores through an interactive dashboard.
 
----
 
 ## Features
 
@@ -18,8 +17,6 @@ The system automatically collects company news, extracts article content, perfor
 * ESG score generation
 * Interactive Streamlit dashboard
 * Company ranking based on ESG scores
-
----
 
 ## Project Workflow
 
@@ -39,7 +36,6 @@ ESG Score Generation
 ↓
 Interactive Dashboard
 
----
 
 ## Technologies Used
 
@@ -51,7 +47,6 @@ Interactive Dashboard
 * Streamlit
 * Plotly
 
----
 
 ## Project Structure
 
@@ -67,7 +62,6 @@ esg_project/
 
 └── README.md
 
----
 
 ## Dashboard Features
 
@@ -78,7 +72,6 @@ esg_project/
 * Company Ranking Table
 * Multi-Company Comparison
 
----
 
 ## Future Improvements
 
@@ -88,7 +81,6 @@ esg_project/
 * Automated ESG Risk Detection
 * Cloud Deployment
 
----
 
 ## Author
 
